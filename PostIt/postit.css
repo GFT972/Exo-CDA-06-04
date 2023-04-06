@@ -1,0 +1,8 @@
+#postIt {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	background-color: yellow;
+	padding: 10px;
+	visibility: hidden;
+}
